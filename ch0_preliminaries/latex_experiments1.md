@@ -10,3 +10,4 @@ x_0 = 2
 ```
 ## Second
 2 + 2 	$\implies$ 4
+> Fun
