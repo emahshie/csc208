@@ -1,2 +1,4 @@
 # Chapter 0 LaTeX Experiments
-\x = \2 + 2\
+```math
+x_0 = $\sqrt{4}$
+```
