@@ -1,2 +1,2 @@
 # Steve Wartik Summary
-Although it is called computer SCIENCE, CS is really not a scientific discipline. CS is not based on observations like traditional science. 
+Although it is called computer SCIENCE, CS is really not a scientific discipline. The key difference between CS and science is that CS is not based on observations, just logic. There are no hypotheses in CS. Computer scientists simply make assumptions and use logic to get results. In addition, because most of CS can’t be given a definite structure, it is not a field of mathematics. In reality, CS aligns most closely with philosophy. There is no correct answer in CS, and there are an infinite number of solutions depending on how one approaches a problem. 
