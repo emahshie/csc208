@@ -13,6 +13,6 @@ Discrete structures are mathematical objects that can represent the parts of the
 Sets:
 - An ordered collection of elements
 - Ways to describe a set
-  - Words: Let A be the set of all natural numbers less than 4
-  - List: $A = { 1, 2, 3 }$
-  - Set comprehension: $A = { x \epsilon \N : x < 4 }$
+  - Words
+  - List 
+  - Set comprehension
