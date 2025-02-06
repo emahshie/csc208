@@ -11,7 +11,7 @@
 Discrete structures are mathematical objects that can represent the parts of the problems being solved
 ### Examples of discrete structures
 1. Sets:
-  - An ordered collection of elements
+  - An unordered collection of elements
   - Ways to describe a set:
     - Words
     - List 
@@ -25,4 +25,13 @@ Discrete structures are mathematical objects that can represent the parts of the
      - Range: set of all actual outputs
      - Closed formula: each output is given by a specific rule based solely on its input
      - Recursive function: computes the output based on other outputs of the function
+3. Sequences:
+  - An ordered collection of elements
+  - Can be finite or infinite
+  - Terms are refered to as $a_0, a_1, a_2, ...$
+  - Can be given a closed formula by giving the function for the nth term
 
+ex.
+```math
+a_n = 4n + 1
+```
