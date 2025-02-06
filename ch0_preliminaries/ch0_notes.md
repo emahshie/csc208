@@ -16,7 +16,7 @@ Discrete structures are mathematical objects that can represent the parts of the
     - Words
     - List 
     - Set comprehension
-1. Functions:
+2. Functions:
    - A rule that assigns each input exactly one output
    - Key phrases:
      - Image: the output of the function
