@@ -17,14 +17,14 @@ Discrete structures are mathematical objects that can represent the parts of the
     - List 
     - Set comprehension
 2. Functions:
-   - A rule that assigns each input exactly one output
-   - Key phrases:
-     - Image: the output of the function
-     - Domain: set of all inputs
-     - Codomain: set of all allowable outputs
-     - Range: set of all actual outputs
-     - Closed formula: each output is given by a specific rule based solely on its input
-     - Recursive function: computes the output based on other outputs of the function
+  - A rule that assigns each input exactly one output
+  - Key phrases:
+    - Image: the output of the function
+    - Domain: set of all inputs
+    - Codomain: set of all allowable outputs
+    - Range: set of all actual outputs
+    - Closed formula: each output is given by a specific rule based solely on its input
+    - Recursive function: computes the output based on other outputs of the function
 3. Sequences:
   - An ordered collection of elements
   - Can be finite or infinite
