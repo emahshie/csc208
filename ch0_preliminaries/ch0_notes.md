@@ -36,11 +36,11 @@ ex.
 a_n = 4n + 1
 ```
 4. Relations:
-   - How multiple elements compare to each other
-   - Equal to, less than, multiple of, not equal, etc
-   - Can be reflexive, symmetric, transitive, etc
+  - How multiple elements compare to each other
+  - Equal to, less than, multiple of, not equal, etc
+  - Can be reflexive, symmetric, transitive, etc
 5. Graphs:
-   - A symmetric and irreflexive relation
-   - A set of vertices together with a set of edges
+  - A symmetric and irreflexive relation
+  - A set of vertices together with a set of edges
 
 
