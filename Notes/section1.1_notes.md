@@ -8,3 +8,26 @@
 - Which truth value a molecular statement achieves is determined by the type of connective and the truth values of the parts
 - Truth tables list what truth value of the statement is possible for every combination of truth values for the parts
 - A predicate becomes a statement when the variable is replaced with a constant
+
+# Vocab
+premise: all of the arguments except the last one
+conclusion: the last argument
+argument: sequence of statements
+theorem: a math rule that has a proof that goes along with it
+proposition: a statement that is either true or false
+proof: a sound argument whose conclusion is the statement
+statement: a declarative sentence that is either true or false
+quantifier: used to quantify the variables in predicates
+predicate: a statement that contains a free variable
+logical connective: building molecular statements out of simpler atomic or molecular statements
+binary connective: connects two statements
+unary connective: applies to a single statement
+truth value: true or false, determined by the truth values of its parts
+propositional variables: P,Q,R,S… stand in for statements
+conjunction: P and Q (^)
+disjunction: P or Q (upside down ^)
+implication: if P then Q (arrow)
+conditional: if P then Q (arrow)
+biconditional: P if and only if Q (double arrow)
+negation: not P (bar)
+truth conditions: when a logical connective is true
