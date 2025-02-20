@@ -4,3 +4,6 @@
 - An implication is logically equivalent to its contrapositive ($P \implies Q \equiv \lnot Q \implies \lnot P$)
 - De Morgan's Law: the negaton of a disjunction or conjunction is logically equivalent to a conjunction or disjunction of negations ($\lnot (P \lor Q) \equiv \lnot P \lor \lnot Q$) and ($\lnot (P \land Q) \equiv \lnot P \land \lnot Q$)
 - Implications are disjunctions: $P \implies Q \equiv \lnot P \lor Q$
+- The negation of an implication is a conjunction: $\lnot (P \implies Q) \equiv P \land \lnot Q$
+- To dispute a claim, you need just one counterexample
+- A deduction rule is an arguement form that is always valid
