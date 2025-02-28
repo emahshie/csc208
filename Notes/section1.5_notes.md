@@ -16,5 +16,4 @@ is, $f(A)$ is the set of all outputs of the function for inputs in $A$
 - A graph is a set V of vertices and a set E of edges. The edges represent relationships between the vertices
 - Let v be a vertex in a graph G. The degree of v, written d(v), is the number of edges that contain v, that is the number of edges incident to v
 - In any graph, the number of vertices with odd degree must be even
-- 
-
+  
