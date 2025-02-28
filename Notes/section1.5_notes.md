@@ -12,7 +12,7 @@ is, $f(A)$ is the set of all outputs of the function for inputs in $A$
 - To prove one set is a subset of another, chase elements from the subset to the superset
 - A relation on a set is a set of ordered pairs of elements from the set
 - A relation R on a set A is transitive provided for all $x, y, z \in A$,if $xRy$ and $yRz$, then $xRz$
-- To prove that a relation is not transitive, you need to find three elements a, b, c such that a ~ b, b ~ c, but a ~ c
+- To prove that a relation is not transitive, you need to find three elements a, b, c such that a ~ b, b ~ c, but not a ~ c
 - A graph is a set V of vertices and a set E of edges. The edges represent relationships between the vertices
 - Let v be a vertex in a graph G. The degree of v, written d(v), is the number of edges that contain v, that is the number of edges incident to v
 - In any graph, the number of vertices with odd degree must be even
