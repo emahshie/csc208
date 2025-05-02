@@ -2,7 +2,7 @@ The total number of unordered outcomes when rolling five six-sided dice is given
 
 
 
-$\[ \binom{n + k - 1}{k} \]$
+$$\[ \binom{n + k - 1}{k} \]$$
 
 
 
