@@ -1,0 +1,15 @@
+The total number of unordered outcomes when rolling five six-sided dice is given by:
+
+
+
+$\[ \binom{n + k - 1}{k} \]$
+
+
+
+where$$ \( n = 6 \)$$ (six possible values) and $$\( k = 5 \)$$ (five dice). Applying the formula:
+
+
+
+\[
+\$$binom{6 + 5 - 1}{5} = \binom{10}{5} = \frac{10!}{5!(10-5)!} = \frac{10!}{5!5!} = 252$$
+\]
